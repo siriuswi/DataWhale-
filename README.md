@@ -1,2 +1,2 @@
 # DataWhale-
-DataWhale吃瓜教程笔记
+DataWhale组队学习、夏令营笔记
